@@ -1,0 +1,42 @@
+_repo: Chimney-Pot-Papers_25969
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Endell, Fritz August Gottfried
+    alias: Endel, Fritz
+    birthdate: 1873
+    deathdate: 1955
+    gutenberg_agent_id: '31700'
+    url: http://www.gutenberg.org/2009/agents/31700
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooks, Charles S. (Charles Stephen)
+    aliases:
+    - Brooks, C. S. (Charles Stephen)
+    - Brooks, Charles Stephen
+    birthdate: 1878
+    deathdate: 1934
+    gutenberg_agent_id: '3268'
+    url: http://www.gutenberg.org/2009/agents/3268
+description: ''
+gutenberg_issued: '2008-07-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25969'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+tableOfContents: The chimney-pots -- The quest of the lost digamma -- On a rainy morning
+  -- "1917" -- On going afoot -- On livelihoods -- The tread of the friendly giants
+  -- On spending a holiday -- Runaway studies -- On turning into forty -- On the difference
+  between wit and humor -- On going to a party -- On a pair of leather suspenders
+  -- Boots for runaways -- On hanging a stocking at Christmas.
+title: Chimney-Pot Papers
+url: http://www.gutenberg.org/ebooks/25969
